@@ -24,7 +24,7 @@ import javax.swing.table.TableModel;
  */
 public class addConsecutiveSession extends javax.swing.JPanel {
 
-    Connection connection;
+    Connection connectionabc;
     PreparedStatement pst;
     ResultSet rs;
     String finalTags = null;
