@@ -26,7 +26,7 @@ import javax.swing.table.TableModel;
 public class addNonOverlapping extends javax.swing.JPanel {
 
 //    Connection connection;
-    PreparedStatement pstabc = null, pst1, pst2, pst3, pst4, pst5;
+    PreparedStatement pst = null, pst1, pst2, pst3, pst4, pst5;
     ResultSet rs;
     String finalTags = null;
     String sessID = null;

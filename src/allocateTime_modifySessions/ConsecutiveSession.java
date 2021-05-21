@@ -11,7 +11,7 @@ package allocateTime_modifySessions;
  */
 public class ConsecutiveSession {
     
-    private int idabc;
+    private int id;
     private String sGid;
     private String cSession;
     private String SessionID;

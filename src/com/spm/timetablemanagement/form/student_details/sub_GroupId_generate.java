@@ -25,7 +25,7 @@ import javax.swing.table.TableModel;
 public class sub_GroupId_generate extends javax.swing.JPanel {
 
     Connection connection;
-    PreparedStatement pstabc, pstg;
+    PreparedStatement pst, pstg;
     ResultSet rs;
     /**
      * Creates new form sub_GroupId_generate

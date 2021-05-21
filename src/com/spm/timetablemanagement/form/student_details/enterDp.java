@@ -25,7 +25,7 @@ public class enterDp extends javax.swing.JPanel {
 
     private Connection connection;
     private int dpId;
-    PreparedStatement pstabcDp;
+    PreparedStatement pstDp;
     ResultSet rs;
     /**
      * Creates new form enterDp

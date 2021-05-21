@@ -26,7 +26,7 @@ import javax.swing.table.TableModel;
  */
 public class enterTag extends javax.swing.JPanel {
 
-    Connection connectionabc;
+    Connection connection;
     PreparedStatement statement;
 
     /**

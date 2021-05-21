@@ -39,7 +39,7 @@ import org.xml.sax.SAXException;
  */
 public class ViewSession extends javax.swing.JPanel {
 
-    PreparedStatement stament, statement1;
+    PreparedStatement statement, statement1;
     Connection connection;
     ResultSet resultSet;
     TableModel tableModel;

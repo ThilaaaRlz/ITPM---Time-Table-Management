@@ -20,7 +20,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class view_All_Details extends javax.swing.JPanel {
 
-    private Connection connectionabc;
+    private Connection connection;
     /**
      * Creates new form view_All_Details
      */

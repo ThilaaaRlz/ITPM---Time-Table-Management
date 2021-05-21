@@ -37,7 +37,7 @@ import org.xml.sax.SAXException;
  */
 public class AddSession extends javax.swing.JPanel {
 
-    PreparedStatement stament, statement1, statement2;
+    PreparedStatement statement, statement1, statement2;
     Connection connection;
     ResultSet resultSet;
     

@@ -23,7 +23,7 @@ public class enterYnS extends javax.swing.JPanel {
 
     private Connection connection;
     private int yNsId;
-    PreparedStatement pstabcYns;
+    PreparedStatement pstYns;
     ResultSet rs;
     /**
      * Creates new form enterYnS
