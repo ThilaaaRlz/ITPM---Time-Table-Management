@@ -1,1 +1,2 @@
-# ITPM---Time-Table-Management
+# Timetable-Manager
+ITPM Project
