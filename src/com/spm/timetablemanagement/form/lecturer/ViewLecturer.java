@@ -44,7 +44,6 @@ public class ViewLecturer extends javax.swing.JPanel {
     private ArrayList<String> level = new ArrayList();
     private ArrayList<String> department = new ArrayList();
     
-    
     private static String buildings[];
     private static String faculties[];
     private static String centers[];
