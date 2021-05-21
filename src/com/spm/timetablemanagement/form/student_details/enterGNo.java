@@ -26,7 +26,7 @@ public class enterGNo extends javax.swing.JPanel {
 
     Connection connection;
     private int gnId;
-    PreparedStatement pstGn;
+    PreparedStatement pstabcGn;
     ResultSet rs;
     /**
      * Creates new form enterGNo

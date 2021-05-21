@@ -26,7 +26,7 @@ public class enterSubGNo extends javax.swing.JPanel {
 
     Connection connection;
     private int sGnoId;
-    PreparedStatement pstSgno;
+    PreparedStatement pstabcSgno;
     ResultSet rs;
     /**
      * Creates new form enterSubGNo
